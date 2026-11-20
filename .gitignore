@@ -1,0 +1,17 @@
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Dataset files
+data/raw/
+data/processed/
+data/reports/
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
